@@ -53,4 +53,3 @@ Passionné par l'informatique, je me spécialise dans la conception, le dévelop
 
 ---
 
-💡 *Page fièrement générée avec [GPRM](https://gprm.itsvg.in)*
