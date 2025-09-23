@@ -1,6 +1,6 @@
 # 👋🏽 Bonjour et bienvenue sur mon GitHub !
 
-Je m'appelle **Giovanni**, étudiant en **2ᵉ année de BUT Informatique**, parcours **Développement web ou encore logiciel** (*parcours A*).  
+Je m'appelle **Giovanni**, étudiant en **3ᵉ année de BUT Informatique**, parcours **Développement web ou encore logiciel** (*parcours A*).  
 Passionné par l'informatique, je me spécialise dans la conception, le développement et la maintenance d'applications.
 
 ---
@@ -17,7 +17,6 @@ Passionné par l'informatique, je me spécialise dans la conception, le dévelop
 
 ### 🧰 Frameworks & Librairies
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) 
@@ -25,7 +24,6 @@ Passionné par l'informatique, je me spécialise dans la conception, le dévelop
 
 ### 🗄️ Bases de Données & Serveurs
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 ### ⚙️ Outils & Plateformes
